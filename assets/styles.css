@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/*!
+ * You can override Bootstrap varaibles here
+ */
+
+:root{
+	--bs-body-font-size: 1.1rem;
+}
