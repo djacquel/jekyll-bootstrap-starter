@@ -22,7 +22,7 @@ title: Jekyll Bootstrap Starter
 email: david.jacquel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Jekyll Bootstrap Starting point
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-bootstrap-starter" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en # languge used on site, default to 'en'
 twitter_username: djacquel
